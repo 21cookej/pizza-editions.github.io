@@ -1,4 +1,4 @@
-#Welcome to Pizza Editions!
+Welcome to Pizza Editions!
 
 The website is https://21cookej.github.io/pizza-editions.github.io/
 
